@@ -1,0 +1,10 @@
+{
+"json.format.enable": false,
+"typescript.preferences.includePackageJsonAutoImports": "off",
+"launch": {
+
+    "configurations": [],
+    "compounds": []
+}
+}
+
